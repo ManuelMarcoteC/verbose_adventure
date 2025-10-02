@@ -1,3 +1,4 @@
-# 0208_PROY - Proyecto
+# 0208\_PROY - Proyecto
 
-Directorio para ejercicios y prácticas de la asignatura de Proyecto.
+Directorio para ejercicios y prácticas del Proyecto de fin de grado TFG.
+

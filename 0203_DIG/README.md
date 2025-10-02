@@ -1,3 +1,4 @@
-# 0203_DIG - Digitalización
+# 0203\_DIG - Digitalización
 
-Directorio para ejercicios y prácticas de la asignatura de Digitalización.
+Directorio para ejercicios y prácticas de la asignatura de Digitalización aplicada a los sectores productivos.
+

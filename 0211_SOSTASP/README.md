@@ -1,3 +1,4 @@
-# 0211_SOSTASP - Sistemas Operativos, Sistemas Telemáticos y Aplicaciones de Servicios Públicos
+# 0211\_SOSTASP - Sistemas de gestión empresarial
 
-Directorio para ejercicios y prácticas de la asignatura de Sistemas Operativos, Sistemas Telemáticos y Aplicaciones de Servicios Públicos.
+Directorio para ejercicios y prácticas de la asignatura de Sistemas de gestión empresarial
+
