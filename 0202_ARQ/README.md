@@ -1,3 +1,4 @@
-# 0202_ARQ - Arquitectura
+# 0202\_ARQ - Arquitecturas en la nube
 
-Directorio para ejercicios y prácticas de la asignatura de Arquitectura.
+Directorio para ejercicios y prácticas de la asignatura de Arquitecturas en la nube.
+

@@ -1,3 +1,4 @@
-# 0213_FFE - Formación y Orientación Laboral
+# 0213\_FFE - Fase de formación en empresas
 
-Directorio para ejercicios y prácticas de la asignatura de Formación y Orientación Laboral.
+Directorio para ejercicios y prácticas de la asignatura de Fase de formación en empresas.
+
