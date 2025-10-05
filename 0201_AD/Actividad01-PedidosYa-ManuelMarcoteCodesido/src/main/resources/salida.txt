@@ -1,0 +1,11 @@
+CUSTOMERS
+1,Sara,Valles,saravalles@gmail.com
+2,Manuel,Marcote,manuelmarcote@gmail.com
+3,Estela,Cruz,estelacruz@gmail.com
+
+ORDERS
+1,1,orange net,3
+2,2,textured soy,2
+3,3,grape juice,1
+4,1,bottle of wine,3
+5,2,chips,2
